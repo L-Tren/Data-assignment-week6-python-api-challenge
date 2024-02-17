@@ -48,7 +48,7 @@ There is a very weak positive linear relationship between the Northern Hemispher
 
 ### Northern Hemisphere: Wind Speed (m/s) vs. Latitude
 
-![Northern Hemisphere: Wind Speed (m/s) vs. Latitude](output_data/Northern_Hemisphere_Latitude_vs._Wind Speed.png)
+![Northern Hemisphere: Wind Speed (m/s) vs. Latitude](output_data/Northern_Hemisphere_Latitude_vs._Wind_Speed.png)
 
 There is a very weak negative linear relationship between the Northern Hemisphere Wind Speed (metres per second) and Latitude. The relationship is not meaningful.
 
