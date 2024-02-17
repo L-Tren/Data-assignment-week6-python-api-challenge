@@ -5,7 +5,7 @@
 
 ### Northern Hemisphere: Temperature (C) vs. Latitude
 
-![Northern Hemisphere: Temperature (C) vs. Latitude](output_data/Northern Hemisphere Latitude vs. Max Temp.png)
+![Northern Hemisphere: Temperature (C) vs. Latitude] (output_data/Northern Hemisphere Latitude vs. Max Temp.png)
 
 There is a strong negative linear relationship between the Northern Hemisphere Max Temperature (degrees celsius) and Latitude.
 
@@ -13,48 +13,48 @@ There is a strong negative linear relationship between the Northern Hemisphere M
 ### Southern Hemisphere: Temperature (C) vs. Latitude
 
 
-![Southern Hemisphere: Temperature (C) vs. Latitude](output_data/Southern Hemisphere Latitude vs. Max Temp.png)
+![Southern Hemisphere: Temperature (C) vs. Latitude] (output_data/Southern Hemisphere Latitude vs. Max Temp.png)
 
 There is a moderate positive linear relationship between the Southern Hemisphere Max Temperature (degrees celsius) and Latitude.
 
 
 ### Northern Hemisphere: Humidity (%) vs. Latitude
 
-![Northern Hemisphere: Humidity (%) vs. Latitude](output_data/Northern Hemisphere Latitude vs. Humidity.png)
+![Northern Hemisphere: Humidity (%) vs. Latitude] (output_data/Northern Hemisphere Latitude vs. Humidity.png)
 
 There is a weak positive linear relationship between the Northern Hemisphere Humidity (percent) and Latitude. The relationship is not meaningful.
 
 
 ### Southern Hemisphere: Humidity (%) vs. Latitude
 
-![Southern Hemisphere: Humidity (%) vs. Latitude](output_data/Southern Hemisphere Latitude vs. Humidity.png)
+![Southern Hemisphere: Humidity (%) vs. Latitude] (output_data/Southern Hemisphere Latitude vs. Humidity.png)
 
 There is a very weak positive linear relationship between the Southern Hemisphere Humidity (percent) and Latitude. The relationship is not meaningful.
 
 
 ### Northern Hemisphere: Cloudiness (%) vs. Latitude
 
-![Northern Hemisphere: Cloudiness (%) vs. Latitude](output_data/Northern Hemisphere Latitude vs. Cloudiness.png)
+![Northern Hemisphere: Cloudiness (%) vs. Latitude] (output_data/Northern Hemisphere Latitude vs. Cloudiness.png)
 
 There is a very weak positive linear relationship between the Northern Hemisphere Cloudiness (percent) and Latitude. The relationship is not meaningful.
 
 
 ### Southern Hemisphere: Cloudiness (%) vs. Latitude
 
-![Southern Hemisphere: Cloudiness (%) vs. Latitude](output_data/Southern Hemisphere Latitude vs. Cloudiness.png)
+![Southern Hemisphere: Cloudiness (%) vs. Latitude] (output_data/Southern Hemisphere Latitude vs. Cloudiness.png)
 
 There is a very weak positive linear relationship between the Northern Hemisphere Cloudiness (percent) and Latitude. The relationship is not meaningful.
 
 
 ### Northern Hemisphere: Wind Speed (m/s) vs. Latitude
 
-![Northern Hemisphere: Wind Speed (m/s) vs. Latitude](output_data/Northern Hemisphere Latitude vs. Wind Speed.png)
+![Northern Hemisphere: Wind Speed (m/s) vs. Latitude] (output_data/Northern Hemisphere Latitude vs. Wind Speed.png)
 
 There is a very weak negative linear relationship between the Northern Hemisphere Wind Speed (metres per second) and Latitude. The relationship is not meaningful.
 
 ### Southern Hemisphere: Wind Speed (m/s) vs. Latitude
 
-![Southern Hemisphere: Wind Speed (m/s) vs. Latitude](output_data/Southern Hemisphere Latitude vs. Wind Speed.png)
+![Southern Hemisphere: Wind Speed (m/s) vs. Latitude] (output_data/Southern Hemisphere Latitude vs. Wind Speed.png)
 
 There is a very weak negative linear relationship between the Southern Hemisphere Wind Speed (metres per second) and Latitude. The relationship is not meaningful.
 
@@ -63,11 +63,11 @@ There is a very weak negative linear relationship between the Southern Hemispher
 
 ### Map Displaying Humidity Across the Globe
 
-![Humidity In World Cities](output_data/HumidityInWorldCities.PNG)
+![Humidity In World Cities] (output_data/HumidityInWorldCities.PNG)
 
 ### Map Displaying Hotels within a 10km radius Ideal Weather
 
-![Humidity In World Cities](output_data/HotelsInIdealWeatherCities.PNG)
+![Humidity In World Cities] (output_data/HotelsInIdealWeatherCities.PNG)
 
 I created a list of cities with my ideal weather parameters being:
 
