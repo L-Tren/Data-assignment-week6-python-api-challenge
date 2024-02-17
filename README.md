@@ -20,7 +20,7 @@ There is a moderate positive linear relationship between the Southern Hemisphere
 
 ### Northern Hemisphere: Humidity (%) vs. Latitude
 
-![Northern Hemisphere: Humidity (%) vs. Latitude](output_data/Northern Hemisphere Latitude vs. Humidity.png)
+![Northern Hemisphere: Humidity (%) vs. Latitude](output_data/Northern_Hemisphere_Latitude_vs._Humidity.png)
 
 There is a weak positive linear relationship between the Northern Hemisphere Humidity (percent) and Latitude. The relationship is not meaningful.
 
