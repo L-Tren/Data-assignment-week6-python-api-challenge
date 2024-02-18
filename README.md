@@ -63,11 +63,11 @@ There is a very weak negative linear relationship between the Southern Hemispher
 
 ### Map Displaying Humidity Across the Globe
 
-![Humidity In World Cities] (output_data/HumidityInWorldCities.PNG)
+![Humidity In World Cities](output_data/HumidityInWorldCities.PNG)
 
 ### Map Displaying Hotels within a 10km radius Ideal Weather
 
-![Humidity In World Cities] (output_data/HotelsInIdealWeatherCities.PNG)
+![Humidity In World Cities](output_data/HotelsInIdealWeatherCities.PNG)
 
 I created a list of cities with my ideal weather parameters being:
 
